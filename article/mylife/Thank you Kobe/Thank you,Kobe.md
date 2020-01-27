@@ -4,7 +4,7 @@
 
 ### 0.1 本文的目录
 
-![thank you ，kobe](./images/thank you ，kobe.png)
+![thank you ，kobe](../img/thank-you-kobe/thank you ，kobe.png)
 
 ### 0.2 阅读本文能给你带来什么
 
@@ -70,9 +70,7 @@ Never give up ！世事无常，请好好照顾自己，好好珍惜周围的人
 
 曼巴精神，就是从不退却，从不放弃，从不逃遁，忍辱负重，在困难中创造奇迹。Never give up !
 
-![](./images/four.jpeg)
-
-
+![凌晨四点](../img/thank-you-kobe/four.jpeg)
 
 ## 4. 感恩有你
 
@@ -82,4 +80,4 @@ Never give up ！世事无常，请好好照顾自己，好好珍惜周围的人
 
 世事无常，希望大家好好照顾好自己！！！
 
-![](./images/kobe.jpg)
+![愿天堂没有疼](../img/thank-you-kobe/kobe.jpg)
